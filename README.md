@@ -1,4 +1,4 @@
-# NexusCLI C v0.5.0 — Terminal Speedcubing Lab
+# NexusCLI C v1.0— Terminal Speedcubing Lab
 
 A local-only, terminal-based speedcubing timer written in C. Version 1.0 focuses on a much more expressive TUI, configurable behavior, editable solve records, and clearer statistics while keeping the runtime dependency footprint small.
 
