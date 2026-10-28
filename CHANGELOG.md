@@ -1,6 +1,6 @@
 # Changelog
 
-## v0.5.0 — Terminal UI & editability pass
+## v1.0 — Terminal UI & editability pass
 
 - Redesigned the main screen with a five-row ASCII timer, color-coded states, theme colors, clearer section separators, and a more informative keyboard legend.
 - Added automatic `~/.nexuscli/config.conf` creation, validation, atomic updates, a settings menu (`C`), and `--config`.
