@@ -1,0 +1,12 @@
+# Compiled executable
+nexuscli
+
+# Temporary files
+*.o
+*.tmp
+core
+core.*
+
+# Personal solve data
+solves.tsv
+solves.csv
